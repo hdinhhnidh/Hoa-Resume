@@ -5,10 +5,10 @@
 **Customer Data Analyst** | _Kroger Main Office – Cincinnati, OH_  
 
 
-•	Build data models to measure how much effect product sampling and advertising have on sale and customer
-•	Provide insights and interpretations from collected sale and customer data
-•	Design and maintain SQL databases to be used as part of the reporting process and for long term analytics
-•	Design Alteryx modules for cleansing, blending, collecting and analyzing millions of sale records
+ *Build data models to measure how much effect product sampling and advertising have on sale and customer  
+ *Provide insights and interpretations from collected sale and customer data  
+ *Design and maintain SQL databases to be used as part of the reporting process and for long term analytics  
+ *Design Alteryx modules for cleansing, blending, collecting and analyzing millions of sale records  
 •	Develop and visualize multi-level sale reports and dashboards using Tableau
 •	Utilize Excel VBA and SQL scripts to automate tasks such as sending out emails, formatting data and pulling data from SQL databases
 •	Verify and correct over 500 UPC’s monthly on information such as name, price, allocation and availability
