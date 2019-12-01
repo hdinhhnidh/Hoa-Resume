@@ -1,4 +1,4 @@
-# WORK HISTORY
+# WORK HISTORY  
 
 [Kroger](https://a9hriw.ch.files.1drv.com/y4mony1mwl4JRSZJCyRwFpZXayoeSeQBHZa2dL3XhRmZmTmDGbUz9H_Uf2oLsuQiqp6QmQ0TChlEJqB-9QO4vzm9jFo2wu6R1cCw_hcFK5n5EtTffG07m2QXeBxfdAcu2UcPRYXprcFdBg0_XHtm-aVaDWw3BWV2NgeTW0n_9ZQEfU4uIenxk5T9weMl7JalcY61FOi5XdIL-zXmxtV3GOHLQ?width=256&height=138&cropmode=none)  
 ### 04/2018 – Present
