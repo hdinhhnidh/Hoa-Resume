@@ -30,7 +30,7 @@
 •	Coordinate all Kroger Discovery cart transfers between stores and cart replacements  
 •	Manage sampling event counts by preventing overbooking at the store level  
 •	Provide bi-weekly event reports to over 20 market managers  
-![](<iframe src="https://onedrive.live.com/embed?cid=5CA866BF59BFEE77&resid=5CA866BF59BFEE77%21358242&authkey=AJqzYCcBw-ndjEs" width="98" height="120" frameborder="0" scrolling="no"></iframe>)                                                                     
+![](https://onedrive.live.com/embed?cid=5CA866BF59BFEE77&resid=5CA866BF59BFEE77%21358242&authkey=AJqzYCcBw-ndjEs)                                                                     
 ### 08/2015 - 12/2015
 **Corporate trainer** (Promoted)| _Buckeye Promotions – Dayton, OH_
 •	Train new employees on sale and work ethics  
@@ -43,7 +43,7 @@
 •	Update and organize sales leads            
 
 # EDUCATION  
-![](<iframe src="https://onedrive.live.com/embed?cid=5CA866BF59BFEE77&resid=5CA866BF59BFEE77%21358243&authkey=AG68F4p-C8nzZnw" width="98" height="120" frameborder="0" scrolling="no"></iframe>)  
+![](https://onedrive.live.com/embed?cid=5CA866BF59BFEE77&resid=5CA866BF59BFEE77%21358243&authkey=AG68F4p-C8nzZnw)  
 ### 08/2013 – 12/2016  
 #### Bachelor of Business Economics - University of Cincinnati                                                       
 **Carl H. Lindner College of Business**    		 
