@@ -15,38 +15,38 @@
 • Create database sandboxes for secured collaboration with external BI teams and for SQL script testing  
 • Increase workflow’s efficiency by integrating various software and programming languages such as KNIME, R, Power BI, MS Task Scheduler, PERL, Python, Windows Shell Script  
 
-Business Analyst | Advantage Solution – Cincinnati, OH                                                              08/2017 - 04/2018
+                                                            
 
 ![](https://bkatlg.ch.files.1drv.com/y4mVKmj1MGCJD4arNlLntI8HSD685JfJ-0lz3p8KqBgElKBpEwMyfgqXuc68jr-61XWCeP-qSXbTz-qnE89oMf0Tvc9cSzMaPR4RFJqzjEVu147DvQ5qrjUeJvECZoQk3A6Pg2IK7AyqBgG5lrhUKLKEhs9vQoB9rEItZ1NfZa6hTMVS52fR0I9riS3eJ2o51a2kcV8isc20XWWVV2Knzg3rg?width=660&height=229&cropmode=none)  
+### 08/2017 - 04/2018  
+**Senior Business Analyst** (Promoted) | _Advantage Solution – Cincinnati, OH_  
+•	Analyze sale data and create yearly sale reports  
+•	Verify over 100 UPC’s per month using Kroger’s PogDog application  
+•	Work with Kroger’s Data Analyst on special projects  
+•	Facilitate communication between external data analysts and internal employees      
 
-Senior Business Analyst (Promoted)
-•	Analyze sale data and create yearly sale reports
-•	Verify over 100 UPC’s per month using Kroger’s PogDog application
-•	Work with Kroger’s Data Analyst on special projects
-•	Facilitate communication between external data analysts and internal employees    
+**Client services - Internal Operation** (Starting Role)  
+•	Maintain a master store list of over 1400 Kroger stores nationwide  
+•	Coordinate all Kroger Discovery cart transfers between stores and cart replacements  
+•	Manage sampling event counts by preventing overbooking at the store level  
+•	Provide bi-weekly event reports to over 20 market managers  
+![](<iframe src="https://onedrive.live.com/embed?cid=5CA866BF59BFEE77&resid=5CA866BF59BFEE77%21358242&authkey=AJqzYCcBw-ndjEs" width="98" height="120" frameborder="0" scrolling="no"></iframe>)                                                                     
+### 08/2015 - 12/2015
+**Corporate trainer** (Promoted)| _Buckeye Promotions – Dayton, OH_
+•	Train new employees on sale and work ethics  
+•	Shadow interview 2nd round applicants                                                                             
+•	Network with other trainers and customers in other states  
 
-Client services - Internal Operation (Starting Role)
-•	Maintain a master store list of over 1400 Kroger stores nationwide 
-•	Coordinate all Kroger Discovery cart transfers between stores and cart replacements
-•	Manage sampling event counts by preventing overbooking at the store level
-•	Provide bi-weekly event reports to over 20 market managers
+**Sale representative **(Starting Role)  
+•	Promote AT&T and Direct TV services by meeting directly with customers  
+•	Assist existing customers with billing and services issues  
+•	Update and organize sales leads            
 
-Multiple Roles | Buckeye Promotions – Dayton, OH                                                                     08/2015 - 12/2015
-
-Corporate trainer (Promoted)
-•	Train new employees on sale and work ethics
-•	Shadow interview 2nd round applicants                                                                                   
-•	Network with other trainers and customers in other states
-
-Sale representative (Starting Role)
-·	Promote AT&T and Direct TV services by meeting directly with customers
-·	Assist existing customers with billing and services issues
-·	Update and organize sales leads                
-
-EDUCATION
-	
-Bachelor of Business Economics - University of Cincinnati                                                        08/2013 – 12/2016
-Carl H. Lindner College of Business  		 
-•	International Outreach Scholarship (all 3 years)
-•	GPA: 3.66/4.00 (Dean’s list all semesters)             			
+# EDUCATION  
+![](<iframe src="https://onedrive.live.com/embed?cid=5CA866BF59BFEE77&resid=5CA866BF59BFEE77%21358243&authkey=AG68F4p-C8nzZnw" width="98" height="120" frameborder="0" scrolling="no"></iframe>)  
+### 08/2013 – 12/2016  
+#### Bachelor of Business Economics - University of Cincinnati                                                       
+**Carl H. Lindner College of Business**    		 
+•	International Outreach Scholarship (all 3 years)  
+•	GPA: 3.66/4.00 (Dean’s list all semesters)           			
 
