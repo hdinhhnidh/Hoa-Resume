@@ -17,7 +17,7 @@
 
 Business Analyst | Advantage Solution – Cincinnati, OH                                                              08/2017 - 04/2018
 
-![](https://bkatlg.ch.files.1drv.com/y4mVKmj1MGCJD4arNlLntI8HSD685JfJ-0lz3p8KqBgElKBpEwMyfgqXuc68jr-61XWCeP-qSXbTz-qnE89oMf0Tvc9cSzMaPR4RFJqzjEVu147DvQ5qrjUeJvECZoQk3A6Pg2IK7AyqBgG5lrhUKLKEhs9vQoB9rEItZ1NfZa6hTMVS52fR0I9riS3eJ2o51a2kcV8isc20XWWVV2Knzg3rg?width=800&height=278&cropmode=none)  
+![](https://bkatlg.ch.files.1drv.com/y4mVKmj1MGCJD4arNlLntI8HSD685JfJ-0lz3p8KqBgElKBpEwMyfgqXuc68jr-61XWCeP-qSXbTz-qnE89oMf0Tvc9cSzMaPR4RFJqzjEVu147DvQ5qrjUeJvECZoQk3A6Pg2IK7AyqBgG5lrhUKLKEhs9vQoB9rEItZ1NfZa6hTMVS52fR0I9riS3eJ2o51a2kcV8isc20XWWVV2Knzg3rg?width=660&height=229&cropmode=none)  
 
 Senior Business Analyst (Promoted)
 •	Analyze sale data and create yearly sale reports
