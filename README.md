@@ -43,7 +43,7 @@
 •	Update and organize sales leads            
 
 # EDUCATION  
-! [](https://0fxe6q.ch.files.1drv.com/y4mGFD0Lj1ISG6yECIx7zjHTXLcfMebTjvOghq7lE2F1bxtbhFn_i6_77GWlqT6ngEXLBBxLDja_VUCId8wXPLT7ZDhKZHHmgzh2l4NRCOXOZlnZ5PbUSPLkSz8EFmlrICBQZXUGCy35WnepoHraKbrqAeHoJHY8z25GDcg8HNXLb0hc_-68-oIerlbLslXqwaVvzQk2-y-kn_pA9Ff3jyHhA?width=915&height=302&cropmode=none)  
+![](https://0fxe6q.ch.files.1drv.com/y4mGFD0Lj1ISG6yECIx7zjHTXLcfMebTjvOghq7lE2F1bxtbhFn_i6_77GWlqT6ngEXLBBxLDja_VUCId8wXPLT7ZDhKZHHmgzh2l4NRCOXOZlnZ5PbUSPLkSz8EFmlrICBQZXUGCy35WnepoHraKbrqAeHoJHY8z25GDcg8HNXLb0hc_-68-oIerlbLslXqwaVvzQk2-y-kn_pA9Ff3jyHhA?width=915&height=302&cropmode=none)  
 ### 08/2013 – 12/2016  
 #### Bachelor of Business Economics - University of Cincinnati                                                       
 **Carl H. Lindner College of Business**    		 
