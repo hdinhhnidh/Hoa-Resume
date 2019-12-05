@@ -32,7 +32,7 @@
 •	Provide bi-weekly event reports to over 20 market managers  
 ![](https://neicrg.ch.files.1drv.com/y4mBRgO5v2prUc7GXxvBMQnnEbELtOhK2E_yRI32tBPxBYJuTdLqc1sbHCB0315XnATkQe19-ZuHWd2MFkpzwLhi1YcY9ZELe68f1Gt9nIS_DkCQsFrBYXpdzHiHqS1t7JKmuqRqLV4WHr3ONnZMimflEefYxCJ1cBt4EbRYtspkWexYaQF4Oq2f29uLg3aGLfcQAejCz7JfwaoJoQaB2K9vg?width=200&height=200&cropmode=none)                                                                     
 ### 08/2015 - 12/2015
-**Corporate trainer** (Promoted)| _Buckeye Promotions – Dayton, OH_
+**Corporate trainer** (Promoted)| _Buckeye Promotions – Dayton, OH_  
 •	Train new employees on sale and work ethics  
 •	Shadow interview 2nd round applicants                                                                             
 •	Network with other trainers and customers in other states  
