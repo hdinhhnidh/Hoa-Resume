@@ -37,7 +37,7 @@
 •	Shadow interview 2nd round applicants                                                                             
 •	Network with other trainers and customers in other states  
 
-**Sale representative **(Starting Role)  
+**Sale representative** (Starting Role)  
 •	Promote AT&T and Direct TV services by meeting directly with customers  
 •	Assist existing customers with billing and services issues  
 •	Update and organize sales leads            
