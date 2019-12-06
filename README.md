@@ -8,9 +8,11 @@
 • Provide insights and interpretations from collected sale and customer data  
 • Design and maintain SQL databases to be used as part of the reporting process and for long term analytics  
 • Design Alteryx modules for cleansing, blending, collecting and analyzing millions of sale records  
+![](https://chgyuq.ch.files.1drv.com/y4ms2ZpfkwWVredq_6hkK-7qBfRANv6ILmxRTvaYiSqVIlXsfe0XyPFywQON8zb22RlRv9nMOJJrUnGR3LLIS0CQYb79SOCEY6fbXkmKkvKRXKtG_Ma_yPpb2pyvi4FJFT7zUQYFI28kG9_MNmcXCZYdF2YVaOpFHciPFI3z2Zlt7fMba6rLDG8XNK3sWxrB-VditVKcSOAdWeoplvb1ieJ6g?width=660&height=325&cropmode=none) ![](https://16okfg.ch.files.1drv.com/y4m_C8yL1EZp0SjjJPWZhLHKlVlL05AXWFKaSmNaT_nYZB17b9XpCShnxUEyZkCQXsGKK04g1IkO0wLbCLCke9Du42FrwpYVE3gjcBP59gBHq4LiJzid4d19WHQ75G0ngJBLp3Yd0VS2Wf6a9tL1wiz8Izp3cWz1n6F7_CjJnvEXzj3lKWEnQU6vpGoSNwb4RjlrOZUCnIoSUsB3tA4FPLDqQ?width=660&height=293&cropmode=none)  
 • Develop and visualize multi-level sale reports and dashboards using Tableau  
+![](https://obo70q.ch.files.1drv.com/y4mKpGjNU2CwhPO7yzyZ2_5wV-7vcawNlvjtinEUJ3ci7Me0VfCYkPlOv7UMnSg_yVujeI0CxKD5_I6kyAWMWr6eThw0eGynskjdKbGQ7GD-_rjSZ041Yan-Lu21rPsSlnDOtOq-gVE5w_Yz5CQBDYuj4FMEh1UnX96sJeyyGDEfpEopF_gAjdK-eoSEgrec6nWsIIouCPwCry5G_Pf5diRsA?width=510&height=660&cropmode=none) ![](https://pcqjcw.ch.files.1drv.com/y4m81imM-12dkHnektVlyt1rsZpbZCdgsmQAlW97ebD0va4u2SIv2EbZ8hCJ6Xk2C1K2Q_-5n6sjsclfEgx6V2rvKBYOKHRKiFNDssjTMoMgJBCIqwWpS3purVfYlmyEGGFLfhqRAs0dXnlRdYUDJ588_acYy3zOcriF24HrratOjO_XxWVlBj2sNwxZTt0JEnRl4Ijv7z5HReGCZ2yGqqs-Q?width=510&height=660&cropmode=none) ![](https://a9htiw.ch.files.1drv.com/y4m48_DDUq7M4JSIRv_h6Nmj-DOC5T2HVg32G8PZu8SwqV3nPTwDA7sPPk3DnDxw3jrTY7wTGqFwFjDwzpXWiP7x9kVx527vbCAdeDpcZ4CTtvuMZERz_3Ya07sNrT0b-05ThLYPWOBzp_za_ykm7ouC47N9DsPavjflkEi4OTS0Oto7jMW7QY5Uqfj3BxhMg79gfYTjxj1oVKobC6cTCqA_g?width=660&height=510&cropmode=none)  
 • Utilize Excel VBA and SQL scripts to automate tasks such as sending out emails, formatting data and pulling data from SQL databases  
-![EmailAutomation](https://i.imgur.com/zW7Enwq.gif) ![AutoFormat](https://i.imgur.com/cUKCoCM.gif)
+![EmailAutomation](https://i.imgur.com/zW7Enwq.gif) ![AutoFormat](https://i.imgur.com/cUKCoCM.gif) ![AutoFormCompletion](https://i.imgur.com/rwsQK3p.gif)  
 
 • Verify and correct over 500 UPC’s monthly on information such as name, price, allocation and availability  
 • Train new data analysts on understanding and interpreting sale results  
