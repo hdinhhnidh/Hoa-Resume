@@ -10,7 +10,7 @@
 • Design Alteryx modules for cleansing, blending, collecting and analyzing millions of sale records  
 • Develop and visualize multi-level sale reports and dashboards using Tableau  
 • Utilize Excel VBA and SQL scripts to automate tasks such as sending out emails, formatting data and pulling data from SQL databases  
-![EmailAutomation](https://i.imgur.com/zW7Enwq.gif)  
+![EmailAutomation](https://i.imgur.com/zW7Enwq.gif) ![AutoFormat](https://i.imgur.com/cUKCoCM.gif)
 
 • Verify and correct over 500 UPC’s monthly on information such as name, price, allocation and availability  
 • Train new data analysts on understanding and interpreting sale results  
